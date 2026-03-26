@@ -115,21 +115,9 @@ Opa, eaí! Me chamo Rafael, sou estudante universitário de Engenharia de Softwa
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rafaelabelini&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=rafaelabelini&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=rafaelabelini&theme=github_dark)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelabelini&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-</p>
+
 
