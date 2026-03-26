@@ -115,8 +115,7 @@ Opa, eaí! Me chamo Rafael, sou estudante universitário de Engenharia de Softwa
 
 ### 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=rafaelabelini&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=rafaelabelini&theme=github_dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rafaelabelini&theme=midnight-purple&locale=pt_BR&background=000000)](https://git.io/streak-stats)
 
 
 
