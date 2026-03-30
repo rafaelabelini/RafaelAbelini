@@ -72,10 +72,6 @@ Opa, eaí! Me chamo Rafael, sou estudante universitário de Engenharia de Softwa
 </div>
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rafaelabelini/rafaelabelini/output/snake.svg" alt="Snake animation" />
-
 
 
 
