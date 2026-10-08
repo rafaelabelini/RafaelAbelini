@@ -73,7 +73,7 @@ Apaixonado por criar coisas, movido pela vontade de sempre estar aplicando minha
 
 <img src="https://ghstats.dev/api/card?username=rafaelabelini&theme=forest&hide_border=true&hide=followers%2Cgrade%2Ccommits%2Cprs%2Cissues" alt="GitHub Stats Card" />
 <br>
-<img src="https://ghstats.dev/api/langs?username=rafaelabelini&theme=forest&layout=compact" alt="Top Languages" />
+<img src="https://ghstats.dev/api/langs?username=rafaelabelini&theme=forest" alt="Top Languages" />
 
 
 
